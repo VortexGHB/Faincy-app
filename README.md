@@ -25,5 +25,6 @@ La Aplicación Faincy es una herramienta simple para gestionar y organizar pagos
 ## Licencia
 
 La Aplicación Faincy tiene licencia bajo la Licencia GPL-3.0.
-
+- **Finalidad**: Este projecto es puramente para aprender, no esta en venta ni es comercial.
+- **Purpose**: This project is purely for learning purposes and is not for sale or commercial use.
 Esperamos que esta aplicación simplifique la gestión de tus tarifas y pagos. ¡Disfrútala!
