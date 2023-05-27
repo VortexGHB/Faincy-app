@@ -20,6 +20,7 @@ La Aplicación Faincy es una herramienta simple para gestionar y organizar pagos
 1. Descarga el codigo del proyecto (zip/rar), extrae en el nombre del archivo.
 2. Crea un acceso directo del archivo ejecutable (`.exe`).
 3. Ejecuta la aplicación haciendo doble clic en el acceso directo.
+4. Incluye un folder "data" con un json "card_data.json", no borrar.
 
 ## Licencia
 
