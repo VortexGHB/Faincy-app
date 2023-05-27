@@ -1,13 +1,19 @@
 # Aplicación Faincy
 
+![image](https://github.com/VortexGHB/Faincy-app/assets/120611872/6eb8bd9f-d2e5-4ee2-abcd-ed678fc2316f)
+
 La Aplicación Faincy es una herramienta simple para gestionar y organizar pagos y tarifas. Esta aplicación ayuda a individuos, negocios y organizaciones a llevar un registro de diferentes tipos de tarifas y pagos de manera sencilla y eficiente.
 
 ## Características
 
-- **Gestión de Tarifas**: Crea, edita y elimina registros de tarifas con detalles relevantes, como tipo de tarifa, monto y fecha de vencimiento.
-- **Seguimiento de Pagos**: Realiza un seguimiento de los pagos realizados para cada tarifa, incluyendo la fecha y el monto.
-- **Visualización de Datos**: Muestra una vista clara y concisa de las tarifas y los pagos realizados.
+![image](https://github.com/VortexGHB/Faincy-app/assets/120611872/7ffa6190-116c-4487-8672-78552d05975d)
+
+
+- **Gestión de Tarifas**: Crea, edita y elimina registros de tarifas con detalles relevantes, como el monto mayor, menor, promedio y total.
+- **Seguimiento de Pagos**: Realiza un seguimiento de los pagos realizados para cada tarifa, incluyendo el titulo, monto y descripcion.
+- **Visualización de Datos**: Muestra una vista clara tipo tarjetas, de las tarifas y los pagos realizados.
 - **Tecnologías Utilizadas**: HTML, CSS, JavaScript, Rust, Tauri y JSON.
+- **Calculo**: Apartado simple de calculadora con notas rapidas.
 
 ## Instalación
 
